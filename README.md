@@ -43,6 +43,10 @@ Create a 45-second animated educational video explaining the process of photosyn
 ## Output  
 
 
+https://github.com/user-attachments/assets/782be01f-018e-4e04-aa38-05dbec37dd6c
+
+
+
 ## Results  
 - The video should represent the concept accurately  
 - Use structured scenes to make the explanations easy to follow  

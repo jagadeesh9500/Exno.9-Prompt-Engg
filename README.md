@@ -66,5 +66,5 @@ https://github.com/user-attachments/assets/782be01f-018e-4e04-aa38-05dbec37dd6c
 ## Conclusion  
 Effective prompt engineering significantly improves AI-generated educational videos. Details about topic, tone, audience, visuals, and duration help produce clearer, more engaging, and efficient content — saving time for educators.
 
-## Status  
+## Result
 ✅ Prompt execution was successful, and a high-quality educational video was generated.

@@ -1,4 +1,4 @@
-# Ex.No:10 – Exploration of Prompt Optimization for AI-Generated Educational Videos
+# Ex.No:9 – Exploration of Prompt Optimization for AI-Generated Educational Videos
 
 ## Aim  
 To analyze how different prompting strategies in AI-based video generation tools affect clarity, engagement, and instructional quality of educational videos automatically created by AI.
